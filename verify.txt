@@ -1,0 +1,4 @@
+Signer #1 certificate DN: CN=Spark XFS-1, OU=Self-Signed, O=Xinghuo Demo, C=CN
+Signer #1 certificate SHA-256 digest: 020571c2822621b5c6291b119660248d79fc4af51433517508a8592bfa7f24d2
+Signer #1 certificate SHA-1 digest: 479b2dcd8ea792023556f5546088a3a43a9f59e3
+Signer #1 certificate MD5 digest: 0aba319b3900c6ef5ea6c193b0f9af0b
